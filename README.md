@@ -1,5 +1,9 @@
 # auth-lesson
 
+# 参考記事
+
+https://www.metrocode.co/blog/post/firebase-authentication-nuxt-vuejs
+
 ## Build Setup
 
 ```bash
